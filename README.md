@@ -216,4 +216,4 @@ Combat Arms is available as a **full free version** with all features and update
 Download Combat Arms today and unleash your tactical skills in this action-packed FPS! Join the battle and test your mettle against players worldwide!
 
 ---
-**Last updated:** 2026-09-25 22:08:13 UTC
+**Last updated:** 2026-09-26 01:20:55 UTC
